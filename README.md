@@ -11,3 +11,5 @@
 
 Below is an example of what the terminal will display when changes are detected in the monitored folder:
 
+![image alt]()
+
