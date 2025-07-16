@@ -11,5 +11,5 @@
 
 Below is an example of what the terminal will display when changes are detected in the monitored folder:
 
-![image alt]()
+![image alt](https://github.com/KaranSingh1102/CODTECH-Task-1/blob/1bf6f9e54ea7caa1a6a4cb93532b88c1c7d818d2/ss2.png)
 
