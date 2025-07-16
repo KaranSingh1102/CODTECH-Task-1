@@ -5,3 +5,9 @@
 
 
 ![image alt](https://github.com/KaranSingh1102/CODTECH-Task-1/blob/8cc1963640da5ea93adf259301264b12e78cd403/screenshot1.png)
+
+
+"### 🧪 Sample Output: After File Changes Detected
+
+Below is an example of what the terminal will display when changes are detected in the monitored folder:
+![image alt]()
